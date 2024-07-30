@@ -35,7 +35,7 @@ The Sales Analytics in Excel project aims to provide comprehensive insights into
 
 The Sales Analytics Report provides an in-depth analysis of sales performance across various markets and customer segments over the fiscal years 2019, 2020, and 2021. Key metrics include net sales performance and year-over-year growth percentages.
 
-PDF file : https://github.com/akshayamaujey/Sales-Analytics-In-Microsoft-Excel/blob/main/Sales%20Analytics%20Report.pdf
+PDF Report : https://github.com/akshayamaujey/Sales-Analytics-In-Microsoft-Excel/blob/main/Sales%20Analytics%20Report.pdf
 
 Key Features:
 
@@ -49,7 +49,7 @@ Key Features:
 
 The Financial Analytics section includes detailed Profit & Loss (P&L) statements for AtliQ Hardwares. These statements are broken down by fiscal year, month, quarter, and market, providing a clear picture of the company's financial health.
 
-PDF file: https://github.com/akshayamaujey/Sales-Analytics-In-Microsoft-Excel/blob/main/P%26L%20(By%20Fiscal%20Year).pdf
+PDF Report: https://github.com/akshayamaujey/Sales-Analytics-In-Microsoft-Excel/blob/main/P%26L%20(By%20Fiscal%20Year).pdf
 
 ***Reports Included:***
 
@@ -77,10 +77,13 @@ Gross Margin % by quarters for each subzone.
 
 Comparison across FY 2019, FY 2020, and FY 2021.
 
-PDF Report
+PDF Report:https://github.com/akshayamaujey/Sales-Analytics-In-Microsoft-Excel/blob/main/GM%25%20(By%20Quaters%20-%20subzone).pdf
+
 ## 4.Getting Started
+
 To view the reports, simply download the PDF files provided in the links above. These files contain the detailed analysis and visualizations created using Microsoft Excel.
 ## 5. Usage
+
 These reports can be used by stakeholders to:
 
 *Evaluate sales performance and identify high-performing markets.
@@ -88,6 +91,7 @@ These reports can be used by stakeholders to:
 *Analyze financial health through detailed P&L statements.
 
 *Monitor gross margin trends and make informed business decisions.
+
 ## Contact 
 For any questions or further information, please feel free to reach out:
 
