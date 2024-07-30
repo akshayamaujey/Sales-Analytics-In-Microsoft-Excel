@@ -48,6 +48,7 @@ Key Features:
 **Financial Analytics (Profit & Loss)**
 
 The Financial Analytics section includes detailed Profit & Loss (P&L) statements for AtliQ Hardwares. These statements are broken down by fiscal year, month, quarter, and market, providing a clear picture of the company's financial health.
+PDF file: https://github.com/akshayamaujey/Sales-Analytics-In-Microsoft-Excel/blob/main/P%26L%20(By%20Fiscal%20Year).pdf
 
 ***Reports Included:***
 
