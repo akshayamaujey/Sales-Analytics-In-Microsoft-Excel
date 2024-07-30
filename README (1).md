@@ -61,10 +61,11 @@ Yearly financial data from FY 2019.
 PDF Report: https://github.com/akshayamaujey/Sales-Analytics-In-Microsoft-Excel/blob/main/P%20%26%20L(By%20Fiscal%20Month%20and%20Quaters).pdf
 
 **P&L for Markets:**
+
 Financial performance of different markets for FY 2021.
 Metrics include net sales, COGS, gross margin, and gross margin percentage.
 
-PDF Report
+PDF Report : https://github.com/akshayamaujey/Sales-Analytics-In-Microsoft-Excel/blob/main/P%20%26%20L%20(for%20Markets).pdf
 
 **Gross Margin Percentage by Quarters**
 
