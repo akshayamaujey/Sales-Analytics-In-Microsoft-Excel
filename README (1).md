@@ -35,6 +35,8 @@ The Sales Analytics in Excel project aims to provide comprehensive insights into
 
 The Sales Analytics Report provides an in-depth analysis of sales performance across various markets and customer segments over the fiscal years 2019, 2020, and 2021. Key metrics include net sales performance and year-over-year growth percentages.
 
+PDF file : https://github.com/akshayamaujey/Sales-Analytics-In-Microsoft-Excel/blob/main/Sales%20Analytics%20Report.pdf
+
 Key Features:
 
 1.Sales performance by customer.
